@@ -14,7 +14,7 @@ yarn run build
 
 ### To Run
 
-This package is prebuild into the dist folder. Open index.html to see the game in action!
+This package is prebuild into the dist folder. Open dist/index.html to see the game in action!
 
 Optionally you can run:
 
