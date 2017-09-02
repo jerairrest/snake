@@ -1,4 +1,4 @@
-# Snake
+# Snake - https://jerairrest.github.io/snake/
 
 ### Description
 A simple snake game made with ES6.
